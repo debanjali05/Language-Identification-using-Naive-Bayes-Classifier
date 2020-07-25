@@ -17,11 +17,11 @@ python language_detection
 
 ## Output
 The accuracy of the model is **99.59%**. 
-Use can see a sample example in [output.txt](https://github.com/debanjali05/Automatic_Language_Detection/blob/master/output.txt)
+Use can see a sample example in [output.txt](https://github.com/debanjali05/Language-Identification-using-Naive-Bayes-Classifier/blob/master/output.txt)
 
 ## Note
-The Dataset is not present in the this folder. Please download the dataset from the link provided above and update the correct directory path for the Dataset in [utils.py](https://github.com/debanjali05/Automatic_Language_Detection/blob/master/utils.py). 
+The Dataset is not present in the this folder. Please download the dataset from the link provided above and update the correct directory path for the Dataset in [utils.py](https://github.com/debanjali05/Language-Identification-using-Naive-Bayes-Classifier/blob/master/utils.py). 
 
-The model checkpoints are saved in "checkpoints" folder. Create this folder and update the directory path in [utils.py](https://github.com/debanjali05/Automatic_Language_Detection/blob/master/utils.py) before running. 
+The model checkpoints are saved in "checkpoints" folder. Create this folder and update the directory path in [utils.py](https://github.com/debanjali05/Language-Identification-using-Naive-Bayes-Classifier/blob/master/utils.py) before running. 
 
-Use can also add/change the languages in the [utils.py](https://github.com/debanjali05/Automatic_Language_Detection/blob/master/utils.py) file.
+Use can also add/change the languages in the [utils.py](https://github.com/debanjali05/Language-Identification-using-Naive-Bayes-Classifier/blob/master/utils.py) file.
