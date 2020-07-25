@@ -19,7 +19,7 @@ python language_detection
 The accuracy of the model is **99.59%**. 
 Use can see a sample example in [output.txt](https://github.com/debanjali05/Language-Identification-using-Naive-Bayes-Classifier/blob/master/output.txt)
 
-## Note
+**Note:**
 The Dataset is not present in the this folder. Please download the dataset from the link provided above and update the correct directory path for the Dataset in [utils.py](https://github.com/debanjali05/Language-Identification-using-Naive-Bayes-Classifier/blob/master/utils.py). 
 
 The model checkpoints are saved in "checkpoints" folder. Create this folder and update the directory path in [utils.py](https://github.com/debanjali05/Language-Identification-using-Naive-Bayes-Classifier/blob/master/utils.py) before running. 
