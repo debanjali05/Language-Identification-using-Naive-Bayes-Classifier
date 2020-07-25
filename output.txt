@@ -1,0 +1,20 @@
+	-------Loading Dataset-------
+Length of Dataset: 50000
+        -------Extracting Features and Splitting Dataset-------
+/anaconda3/lib/python3.6/site-packages/sklearn/feature_extraction/text.py:1089: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  if hasattr(X, 'dtype') and np.issubdtype(X.dtype, np.float):
+Length of Training set: 40000
+Length of Test set: 10000
+        -------Start Training------
+Model saved: checkpoints/naive_bayes_classifier.pickle
+        -------End Training-------
+        -------Start Testing------
+Accuracy : 99.59
+
+Confusion Matrix:
+[[1938    2    2    3    0]
+ [   0 2090    0    2    0]
+ [   2    3 1981    1    2]
+ [   5    1    1 1975    2]
+ [   1    5    7    2 1975]]
+        -------End Testing------
