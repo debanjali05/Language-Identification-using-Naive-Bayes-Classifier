@@ -17,6 +17,7 @@ python language_detection
 
 ## Output
 The accuracy of the model is **99.59%**. 
+Use can see a sample example in [output.txt](https://github.com/debanjali05/Automatic_Language_Detection/blob/master/output.txt)
 
 ## Note
 The Dataset is not present in the this folder. Please download the dataset from the link provided above and update the correct directory path for the Dataset in [utils.py](https://github.com/debanjali05/Automatic_Language_Detection/blob/master/utils.py). 
